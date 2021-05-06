@@ -17,6 +17,6 @@
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
     "koa2-validation": "^1.0.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
